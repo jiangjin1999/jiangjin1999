@@ -1,11 +1,12 @@
 - 👋 Hi, I’m JiangJin
-- 👀 I’m interested in NLP, ML, DL,RN
+- 👀 I’m interested in LLM, NLP, ML.
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on NLP
 - 📫 How to reach me:
-- email:
-- qq:
-- wechat:
+- email: jiangjin@stu.pku.edu.cn
+- qq: 1261842974@qq.com
+  
+Please indicate "GitHub" when contacting me.
 
 <!---
 jiangjin1999/jiangjin1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

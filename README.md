@@ -1,10 +1,10 @@
 - 👋 Hi, I’m JiangJin
 - 👀 I’m interested in LLM, NLP, ML.
 - 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on NLP
+- 💞️ I’m looking to collaborate on LLM Reasoning!
 - 📫 How to reach me:
 - email: jiangjin@stu.pku.edu.cn
-- qq: 1261842974@qq.com
+- qq: 1261842974
   
 Please indicate "GitHub" when contacting me.
 

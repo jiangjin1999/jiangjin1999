@@ -1,7 +1,5 @@
 - 👋 Hi, I’m JiangJin
-- 👀 I’m interested in LLM, NLP, ML.
-- 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on LLM Reasoning!
+- 💞️ My research interests include LLM Reasoning, Agentic AI and Multimodal Agentic Coding.
 - 📫 How to reach me:
 - email: jiangjin@stu.pku.edu.cn
   

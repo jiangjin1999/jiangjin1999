@@ -8,7 +8,7 @@ I'm also interested in **AI for Health**, especially biological aging and lifelo
 
 I maintain [Awesome Multimodal Agentic Coding](https://github.com/jiangjin1999/awesome-multimodal-agentic-coding), a collection of papers, benchmarks, demos, and tools.
 
-[Google Scholar](https://scholar.google.com/citations?user=C17NgjsAAAAJ&hl=en) · [jiangjin@stu.pku.edu.cn](mailto:jiangjin@stu.pku.edu.cn)
+[jiangjin@stu.pku.edu.cn](mailto:jiangjin@stu.pku.edu.cn)
 
 Please indicate "GitHub" when contacting me.
 
